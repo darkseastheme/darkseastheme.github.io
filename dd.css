@@ -1909,7 +1909,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
         top: 20px;
         width: 100px;
         height: 5px;
-        font-size: 2rem;
+        font-size: 1rem;
         color: #969696;
         font-weight: 600;
     }
